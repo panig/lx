@@ -1,0 +1,15 @@
+.nav {
+  width: 260px;
+  background-color: #2f6cd0;
+  overflow-y: auto;
+}
+
+.nav__logo {}
+.nav__toggle {}
+
+.nav > ul,
+.nav > ul ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
